@@ -1,0 +1,5 @@
+gtk-icon-theme-name = "Dracula"
+gtk-theme-name = "Dracula"
+gtk-font-name = "Fantasque Sans Mono 11"
+gtk-application-prefer-dark-theme = true
+gtk-can-change-accels = 1

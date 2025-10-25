@@ -1,0 +1,7 @@
+setxkbmap -layout 'us,ru' -option 'grp:alt_shift_toggle' &
+numlockx &
+/usr/lib/mate-polkit/polkit-mate-authentication-agent-1 &
+greenclip daemon &
+dunst &
+xset s 300 20 &
+Test:xss-lock ~/.scripts/xsecurelock_conf.sh &
